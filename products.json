@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Wireless Noise-Canceling Headphones",
+    "description": "Premium over-ear wireless headphones with active noise cancellation and 30-hour battery life.",
+    "category": "Electronics",
+    "price": 2499.00,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "url": "https://example.com/products/wireless-headphones",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Ergonomic Mechanical Keyboard",
+    "description": "Tactile RGB mechanical keyboard designed for long coding sessions and high-performance gaming.",
+    "category": "Electronics",
+    "price": 1249.00,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500",
+    "url": "https://example.com/products/mechanical-keyboard",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Smart Fitness Watch",
+    "description": "Waterproof smartwatch with real-time heart rate monitoring, GPS tracking, and sleep analysis.",
+    "category": "Electronics",
+    "price": 1899.00,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+    "url": "https://example.com/products/smart-fitness-watch",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "4K Ultra HD Action Camera",
+    "description": "Compact camera capable of recording 4K video at 60fps with wide-angle lens stabilization.",
+    "category": "Electronics",
+    "price": 3299.00,
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=500",
+    "url": "https://example.com/products/4k-action-camera",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Portable Bluetooth Speaker",
+    "description": "Rugged outdoor speaker with deep bass and IPX7 waterproof rating.",
+    "category": "Electronics",
+    "price": 699.00,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500",
+    "url": "https://example.com/products/portable-bluetooth-speaker",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Minimalist Leather Backpack",
+    "description": "Handcrafted genuine leather backpack with dedicated 15-inch laptop sleeve.",
+    "category": "Fashion",
+    "price": 1499.00,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+    "url": "https://example.com/products/minimalist-leather-backpack",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Classic Denim Jacket",
+    "description": "Timeless vintage-style blue denim jacket suitable for all seasons.",
+    "category": "Fashion",
+    "price": 849.00,
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=500",
+    "url": "https://example.com/products/classic-denim-jacket",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Lightweight Running Sneakers",
+    "description": "Breathable mesh running shoes with cushioned soles for maximum comfort.",
+    "category": "Fashion",
+    "price": 1099.00,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+    "url": "https://example.com/products/running-sneakers",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Polarized Aviator Sunglasses",
+    "description": "UV400 protection polarized sunglasses with lightweight metal frame.",
+    "category": "Fashion",
+    "price": 549.00,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500",
+    "url": "https://example.com/products/polarized-aviator-sunglasses",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Stainless Steel Water Bottle",
+    "description": "Double-wall vacuum insulated flask that keeps drinks cold for 24 hours.",
+    "category": "Home & Kitchen",
+    "price": 349.00,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500",
+    "url": "https://example.com/products/stainless-steel-water-bottle",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Aromatic Coffee Bean Grinder",
+    "description": "Electric burr grinder with multiple coarseness settings for espresso to drip coffee.",
+    "category": "Home & Kitchen",
+    "price": 649.00,
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=500",
+    "url": "https://example.com/products/coffee-bean-grinder",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Non-Stick Cast Iron Skillet",
+    "description": "Pre-seasoned heavy-duty cast iron pan ideal for searing, baking, and frying.",
+    "category": "Home & Kitchen",
+    "price": 529.00,
+    "image": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?w=500",
+    "url": "https://example.com/products/cast-iron-skillet",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Ceramic Essential Oil Diffuser",
+    "description": "Ultrasonic aromatherapy diffuser with LED color lights and automatic shut-off.",
+    "category": "Home & Kitchen",
+    "price": 399.00,
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=500",
+    "url": "https://example.com/products/essential-oil-diffuser",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Bamboo Cutting Board Set",
+    "description": "Set of 3 eco-friendly bamboo chopping boards with juice grooves.",
+    "category": "Home & Kitchen",
+    "price": 299.00,
+    "image": "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=500",
+    "url": "https://example.com/products/bamboo-cutting-board-set",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Adjustable Standing Desk Converter",
+    "description": "Height-adjustable desk riser with spacious dual monitor workspace.",
+    "category": "Office Equipment",
+    "price": 2199.00,
+    "image": "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=500",
+    "url": "https://example.com/products/standing-desk-converter",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Ergonomic Office Chair",
+    "description": "High-back mesh desk chair with adjustable lumbar support and 3D armrests.",
+    "category": "Office Equipment",
+    "price": 2699.00,
+    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6d8310?w=500",
+    "url": "https://example.com/products/ergonomic-office-chair",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Ultra-Wide Gaming Monitor 34-inch",
+    "description": "Curved 144Hz 1ms display with HDR400 for immersive gaming and productivity.",
+    "category": "Electronics",
+    "price": 5499.00,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500",
+    "url": "https://example.com/products/ultrawide-gaming-monitor",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Wireless Charging Pad",
+    "description": "Fast 15W Qi-certified wireless charging station compatible with all modern smartphones.",
+    "category": "Electronics",
+    "price": 249.00,
+    "image": "https://images.unsplash.com/photo-1622445268465-8438165a2689?w=500",
+    "url": "https://example.com/products/wireless-charging-pad",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Compact Mirrorless Digital Camera",
+    "description": "24.2 MPAPS-C sensor camera with fast autofocus for street photography and vlogging.",
+    "category": "Electronics",
+    "price": 8999.00,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500",
+    "url": "https://example.com/products/mirrorless-digital-camera",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Over-Ear Studio Headphones",
+    "description": "Professional closed-back monitoring headphones tuned for flat audio accuracy.",
+    "category": "Electronics",
+    "price": 1899.00,
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500",
+    "url": "https://example.com/products/studio-headphones",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Yoga Mat with Alignment Lines",
+    "description": "Extra thick non-slip eco-friendly TPE yoga mat with body position guide lines.",
+    "category": "Sports & Outdoors",
+    "price": 429.00,
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500",
+    "url": "https://example.com/products/yoga-mat",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Adjustable Dumbbell Set",
+    "description": "All-in-one weight set expandable up to 25kg per hand with quick locking dial.",
+    "category": "Sports & Outdoors",
+    "price": 2899.00,
+    "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=500",
+    "url": "https://example.com/products/adjustable-dumbbell-set",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "2-Person Camping Tent",
+    "description": "Weatherproof lightweight dome tent with easy setup design for hiking and outdoor trips.",
+    "category": "Sports & Outdoors",
+    "price": 1199.00,
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=500",
+    "url": "https://example.com/products/camping-tent",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Insulated Thermal Trail Flask",
+    "description": "Heavy-duty outdoor canteen designed to withstand extreme mountain conditions.",
+    "category": "Sports & Outdoors",
+    "price": 389.00,
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=500",
+    "url": "https://example.com/products/thermal-trail-flask",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "High-Power LED Headlamp",
+    "description": "Rechargeable hands-free headlight with multiple illumination modes for night trails.",
+    "category": "Sports & Outdoors",
+    "price": 279.00,
+    "image": "https://images.unsplash.com/photo-1510312305653-8ed496efae75?w=500",
+    "url": "https://example.com/products/high-power-led-headlamp",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Minimalist Analog Wristwatch",
+    "description": "Sleek stainless steel watch with Japanese quartz movement and genuine leather strap.",
+    "category": "Fashion",
+    "price": 1299.00,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500",
+    "url": "https://example.com/products/analog-wristwatch",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Cotton Oversized Hoodie",
+    "description": "Heavyweight premium fleece sweatshirt with drop shoulders and front pouch pocket.",
+    "category": "Fashion",
+    "price": 699.00,
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=500",
+    "url": "https://example.com/products/cotton-oversized-hoodie",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Slim RFID-Blocking Leather Wallet",
+    "description": "Compact bifold wallet crafted from full-grain leather with built-in card protection.",
+    "category": "Fashion",
+    "price": 399.00,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500",
+    "url": "https://example.com/products/rfid-blocking-wallet",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Canvas Messenger Bag",
+    "description": "Vintage crossbody shoulder satchel with durable metal buckles for daily commuting.",
+    "category": "Fashion",
+    "price": 649.00,
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500",
+    "url": "https://example.com/products/canvas-messenger-bag",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "All-Natural Organic Skincare Serum",
+    "description": "Hydrating Hyaluronic Acid and Vitamin C formula for healthy and radiant skin.",
+    "category": "Beauty & Care",
+    "price": 349.00,
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500",
+    "url": "https://example.com/products/organic-skincare-serum",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Electric Sonic Toothbrush",
+    "description": "High-frequency sonic cleaning brush with 4 intensity settings and smart 2-minute timer.",
+    "category": "Beauty & Care",
+    "price": 549.00,
+    "image": "https://images.unsplash.com/photo-1559591937-e58af1809278?w=500",
+    "url": "https://example.com/products/sonic-toothbrush",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Matte Finish Hair Styling Clay",
+    "description": "Strong hold natural clay pomade designed for short to medium textured hairstyles.",
+    "category": "Beauty & Care",
+    "price": 219.00,
+    "image": "https://images.unsplash.com/photo-1597354984706-fac992d9306f?w=500",
+    "url": "https://example.com/products/hair-styling-clay",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Luxury Botanical Scented Candle",
+    "description": "Hand-poured soy wax candle infused with lavender and eucalyptus essential oils.",
+    "category": "Home & Kitchen",
+    "price": 289.00,
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=500",
+    "url": "https://example.com/products/luxury-scented-candle",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Ceramic Pour-Over Coffee Dripper",
+    "description": "Traditional cone coffee maker designed to brew smooth and clean manual drip coffee.",
+    "category": "Home & Kitchen",
+    "price": 269.00,
+    "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=500",
+    "url": "https://example.com/products/pour-over-coffee-dripper",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Smart LED Desk Lamp",
+    "description": "Dimmable table lamp with wireless charger base and customizable color temperatures.",
+    "category": "Office Equipment",
+    "price": 479.00,
+    "image": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?w=500",
+    "url": "https://example.com/products/smart-led-desk-lamp",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Noise-Isolating USB Microphone",
+    "description": "Condenser cardioid mic ideal for podcasts, streaming, and remote voice calls.",
+    "category": "Electronics",
+    "price": 799.00,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+    "url": "https://example.com/products/usb-microphone",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Portable Hard Drive 2TB",
+    "description": "Ultra-slim USB 3.0 external hard drive for secure data backup and fast storage transfer.",
+    "category": "Electronics",
+    "price": 849.00,
+    "image": "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?w=500",
+    "url": "https://example.com/products/portable-hard-drive-2tb",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Ergonomic Vertical Mouse",
+    "description": "Wireless optical mouse designed to reduce wrist strain and muscle fatigue.",
+    "category": "Electronics",
+    "price": 369.00,
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500",
+    "url": "https://example.com/products/ergonomic-vertical-mouse",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Large Gaming Mouse Pad",
+    "description": "Extended non-slip rubber base desk mat with stitched edges for smooth tracking.",
+    "category": "Electronics",
+    "price": 219.00,
+    "image": "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?w=500",
+    "url": "https://example.com/products/large-gaming-mouse-pad",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "HD Web Camera 1080p",
+    "description": "Auto-focus webcam with integrated noise-reducing microphone and privacy cover.",
+    "category": "Electronics",
+    "price": 529.00,
+    "image": "https://images.unsplash.com/photo-1587826080692-f439cd0b70da?w=500",
+    "url": "https://example.com/products/hd-webcam-1080p",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Wooden Minimalist Wall Clock",
+    "description": "12-inch silent non-ticking quartz wall clock crafted from natural oak wood.",
+    "category": "Home & Kitchen",
+    "price": 389.00,
+    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=500",
+    "url": "https://example.com/products/wooden-wall-clock",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Soft Microfiber Bed Sheet Set",
+    "description": "Hypoallergenic breathable 4-piece queen bed sheet set with deep fitted pockets.",
+    "category": "Home & Kitchen",
+    "price": 499.00,
+    "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=500",
+    "url": "https://example.com/products/microfiber-bed-sheet-set",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Air Purifier for Home",
+    "description": "True HEPA air filter capturing smoke, dust, pollen, and pet dander quietly.",
+    "category": "Home & Kitchen",
+    "price": 1199.00,
+    "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=500",
+    "url": "https://example.com/products/air-purifier",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Resistance Exercise Bands Set",
+    "description": "Set of 5 elastic fitness loops with varied resistance levels for workout home training.",
+    "category": "Sports & Outdoors",
+    "price": 199.00,
+    "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=500",
+    "url": "https://example.com/products/resistance-bands-set",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Trail Running Hydration Vest",
+    "description": "Ergonomic lightweight backpack vest with dual front water flask pockets.",
+    "category": "Sports & Outdoors",
+    "price": 749.00,
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=500",
+    "url": "https://example.com/products/hydration-vest",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Classic Wayfarer Sunglasses",
+    "description": "Timeless unisex frame with scratch-resistant dark tinted lenses.",
+    "category": "Fashion",
+    "price": 599.00,
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500",
+    "url": "https://example.com/products/classic-wayfarer-sunglasses",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Waterproof Duffel Gym Bag",
+    "description": "Spacious travel duffel bag featuring a separate ventilated shoe compartment.",
+    "category": "Fashion",
+    "price": 549.00,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+    "url": "https://example.com/products/waterproof-duffel-gym-bag",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Organic Green Tea Sampler Box",
+    "description": "Selection of 6 loose-leaf artisanal green tea blends packaged in tin containers.",
+    "category": "Food & Beverage",
+    "price": 349.00,
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=500",
+    "url": "https://example.com/products/green-tea-sampler-box",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Dark Roast Espresso Beans 1kg",
+    "description": "100% Arabica whole bean coffee roasted for rich crema and chocolate undertones.",
+    "category": "Food & Beverage",
+    "price": 299.00,
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=500",
+    "url": "https://example.com/products/dark-roast-espresso-beans",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  },
+  {
+    "title": "Stainless Steel Milk Frother Pitcher",
+    "description": "Precision latte art pouring pitcher with etched measurement lines inside.",
+    "category": "Home & Kitchen",
+    "price": 179.00,
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=500",
+    "url": "https://example.com/products/milk-frother-pitcher",
+    "createdBy": "65d8a9f2e4b0123456789abc"
+  }
+]
